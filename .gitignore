@@ -1,0 +1,10 @@
+.env
+.cache
+/node_modules/
+.replit
+replit*
+*.json
+.config
+.upm
+.vscode/
+.breakpoints
